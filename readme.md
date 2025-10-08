@@ -7,3 +7,12 @@
 > - Santiago [github]()
 
 ---
+
+
+
+
+Prueba 3 para generar conflicto
+Agregando boberias despues del conflicto resuelto 
+## Esto tiene conflict
+El siguiente texto va a generar un conflicto, al momento de que juanca sube datos 
+---
