@@ -1,9 +1,9 @@
 # El INICIO DE UNA GRAN AVENTURA
 
 > [!Note]
-> los autores de este proyecto no se hacen responsables de cualuqier pa cardiaco por codigo mal echo.
+> los autores de este proyecto no se hacen responsables de cualquier para cardiaco por codigo mal echo.
 >
 > - Juan Camilo Martinez Guardia [github]("htto)
-> - Santiago [github]()
+> - Santiago Andres Malagon  [github]()
 
 ---
