@@ -7,3 +7,7 @@
 > - Santiago [github]()
 
 ---
+
+## Esto tiene conflict
+El siguiente texto va a generar un conflicto, al momento de que juanca sube datos 
+---
